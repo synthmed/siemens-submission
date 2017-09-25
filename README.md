@@ -6,6 +6,12 @@ Our code is split into two sections: a segmentation mask generating DCGAN, and a
 
 Run code through Jupyter Notebook.
 
+# Prerequisites
+- Python 2 and 3
+- numpy
+- [TensorFlow](https://www.tensorflow.org/install/) 1.0+
+- Keras
+
 # Abstract 
 
 Currently there is strong interest in data-driven approaches to medical image classification. However, medical imaging data is scarce, expensive, and fraught with legal concerns regarding patient privacy. Typical consent forms only allow for patient data to be used in medical journals or education, meaning the majority of medical data is inaccessible for public research.
