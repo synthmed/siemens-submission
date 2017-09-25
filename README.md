@@ -8,9 +8,15 @@ Run code through Jupyter Notebook.
 
 # Abstract 
 
-Currently there is strong interest in data-driven approaches to medical image classification. However, medical imaging data is scarce, expensive, and fraught with legal concerns regarding patient privacy. Typical consent forms only allow for patient data to be used in medical journals or education, meaning the majority of medical data is inaccessible for public research. 
+Currently there is strong interest in data-driven approaches to medical image classification. However, medical imaging data is scarce, expensive, and fraught with legal concerns regarding patient privacy. Typical consent forms only allow for patient data to be used in medical journals or education, meaning the majority of medical data is inaccessible for public research.
+
+
 We propose a novel, two-stage pipeline for generating synthetic medical images from a pair of generative adversarial networks, tested in practice on retinal fundi images. We develop a hierarchical generation process to divide the complex image generation task into two parts: geometry and photorealism.
+
+
 The effectiveness of our synthetic data was proven by an F1 score of **0.8877**, in comparison to **0.8988** on real data, showing a negligible difference between the two datasets.
+
+
 We hope researchers will use our pipeline to bring medical data into the public domain, sparking growth in imaging tasks that have previously relied on the hand-tuning of models. We have begun this initiative through the development of SynthMed, an online repository for synthetic medical images.
 
 
