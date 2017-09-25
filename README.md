@@ -21,4 +21,4 @@ To run the Stage-II GAN use:
 ![Imgur Image](https://i.imgur.com/mrTBNu5.jpg)
 
 
-# Acknowledgements
+Acknowledgements
