@@ -24,4 +24,5 @@ We hope researchers will use our pipeline to bring medical data into the public 
 Acknowledgements:
 
 Stage-I GAN based on: https://github.com/carpedm20/DCGAN-tensorflow
+<br></br>
 Stage-II GAN based on: https://github.com/ray0809/pix2pix
