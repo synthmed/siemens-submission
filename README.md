@@ -14,9 +14,11 @@ The effectiveness of our synthetic data was proven by an F1 score of **0.8877**,
 We hope researchers will use our pipeline to bring medical data into the public domain, sparking growth in imaging tasks that have previously relied on the hand-tuning of models. We have begun this initiative through the development of SynthMed, an online repository for synthetic medical images.
 
 
-# Images
+# Figures
 
 ![Imgur Image](https://i.imgur.com/0kyBN4e.png)
+
+![Imgur Image](https://i.imgur.com/KIUQYbc.jpg)
 
 
 Acknowledgements:
