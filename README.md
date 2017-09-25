@@ -8,11 +8,11 @@ Our code is split into two sections: a geometry generating dcgan, and a photorea
 
 To run the Stage-I GAN use: 
 
-python geometry-main.py.
+`python geometry-main.py`.
 
 To run the Stage-II GAN use:
 
-python pix2pix.py
+`python pix2pix.py`
 
 # Images
 
