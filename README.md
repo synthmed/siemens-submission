@@ -11,6 +11,7 @@ Run code through Jupyter Notebook.
 - numpy
 - [TensorFlow](https://www.tensorflow.org/install/) 1.0+
 - Keras
+- **Preprocessed dataset**
 
 # Abstract 
 
