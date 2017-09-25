@@ -18,8 +18,6 @@ We hope researchers will use our pipeline to bring medical data into the public 
 
 ![Imgur Image](https://i.imgur.com/0kyBN4e.png)
 
-![Imgur Image](https://i.imgur.com/mrTBNu5.jpg)
-
 
 Acknowledgements:
 
