@@ -1,8 +1,8 @@
-# Synthetic Medical Images from Dual Generative Adversarial Networks: A Solution to the Scarcity and Privacy of Medical Data in Deep Learning
+# Synthetic Medical Images from Dual Generative Adversarial Networks: A Solution to the Scarcity and Privacy of Medical Data for Deep Learning
 
 Source code for the 2017 Siemens Science Fair Competition.
 
-Our code is split into two sections: a segmentation mask generating DCGAN, and a photorealism generator using pix2pix.
+Our code is split into two stages: a segmentation-mask-generating DCGAN, and a image-to-image translator using pix2pix.
 
 Run code through Jupyter Notebook.
 
